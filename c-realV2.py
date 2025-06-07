@@ -102,10 +102,10 @@ settings = {
         "verbose": 15,
         "bomb_messages": {
             "random": 10,
-             "fixed": ["nuked"]
+             "fixed": ["get nuked by the big four"]
          },
         "webhook_spam": {
-            "usernames": ["nuked"],
+            "usernames": ["THE BIG FOUR"],
             "pfp_urls": [None],
             "contents": ["@everyone"]
         },
